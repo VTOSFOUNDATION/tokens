@@ -210,3 +210,4 @@ contract VTOSToken is IERC20 {
 	return (name, symbol, _totalSupply);
     }
 }
+
