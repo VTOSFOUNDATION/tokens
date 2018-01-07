@@ -202,3 +202,4 @@ contract VCTToken is IERC20 {
 	    return (name, symbol, _totalSupply);
     }
 }
+
